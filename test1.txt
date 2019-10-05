@@ -1,3 +1,5 @@
 First test file
 
 Updated from branch text3
+
+Another update from branch text 3
